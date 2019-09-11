@@ -127,5 +127,6 @@ dmypy.json
 
 # Project junk files
 downloader_async.py
+downloader_sync.py
 bash-im-quotes.csv
 output.7z
