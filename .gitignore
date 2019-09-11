@@ -121,3 +121,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# PyCharm stuff
+.idea/
+
+# Project junk files
+downloader_async.py
+bash-im-quotes.csv
+output.7z
